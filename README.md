@@ -13,7 +13,7 @@ ListCrawler Houston is a convenient tool for accessing listings of various servi
 
 ## Getting Started
 
-To start exploring listings in Houston, simply visit [ListCrawler Houston](https://listcrawlerhouston.bio.link/) and start browsing. No sign-up or registration required!
+To start exploring listings in Houston, simply visit ListCrawler Houston and start browsing. No sign-up or registration required!
 
 ## Feedback
 
